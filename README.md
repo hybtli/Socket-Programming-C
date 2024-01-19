@@ -1,7 +1,3 @@
-Sure, I'll help you create a README file for your client and server code. Please keep in mind that the following README is a basic template, and you might want to customize it further based on your project's specific requirements and features.
-
----
-
 # Client-Server Communication with Rock-Paper-Scissors Game
 
 This repository contains C code for a simple client-server communication system along with an implementation of a rock-paper-scissors game. The system supports basic chatting, file transfer, and interactive gameplay.
